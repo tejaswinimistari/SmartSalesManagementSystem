@@ -5,12 +5,12 @@ Customer management,
 Sales tracking,
 Database connectivity
 
-*Tech Stack:
+Tech Stack:
 Java,
 JDBC,
 MySQL / SQLite
 
-*Project Structure:
+Project Structure:
 src/,
 controller/,
 dao/,
@@ -18,5 +18,5 @@ dto/,
 utility/,
 view/
 
-*Author:
+Author:
 Tejaswini Mistari
